@@ -20,15 +20,14 @@ I love exploring new web technologies and improving my coding skills every day!
 
 ---
 
-### 💻 Tech Stack
 ### Languages and Tools:
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?logo=tailwind-css&logoColor=white)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
 
 
