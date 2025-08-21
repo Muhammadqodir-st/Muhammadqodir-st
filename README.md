@@ -1,39 +1,31 @@
-## Hi there 👋
+## Hi 👋, I'm Muhammadqodir
 
-I’m Muhammadqodir, a passionate web developer focused on learning and building interactive web applications.
+A passionate web developer from Uzbekistan, learning and building interactive web apps.
 
-### 🌱 I’m currently learning
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React  
-- **Backend:** Node.js, Express, MongoDB  
-- **Other:** TypeScript, UI/UX design  
+### 🌱 Currently learning
+- Frontend: HTML, CSS, Bootstrap, Tailwind, JavaScript, React  
+- Backend: Node.js, Express, MongoDB  
 
 ### 💬 Ask me about
-- JavaScript, React, Tailwind, Firebase, MongoDB
+- JavaScript, React, Tailwind, MongoDB
 
-### 📫 How to reach me
+### 📫 Contact
 - Email: muhammadqodir@example.com  
 - Telegram: [@username](https://t.me/username)  
-- LinkedIn: [Profile](#)
-
-### ⚡ Fun fact
-I love exploring new web technologies and improving my coding skills every day!
 
 ---
 
-### Languages and Tools:
+### Languages & Tools
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
 ---
