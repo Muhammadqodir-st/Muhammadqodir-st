@@ -19,7 +19,6 @@ I’m Muhammadqodir, a passionate web developer focused on learning and building
 I love exploring new web technologies and improving my coding skills every day!
 
 ---
-
 ### Languages and Tools:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -33,14 +32,6 @@ I love exploring new web technologies and improving my coding skills every day!
   </a>
   <a href="https://tailwindcss.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/><br>
-    <sub>Learning</sub>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/><br>
-    <sub>Learning</sub>
   </a>
 </p>
 
