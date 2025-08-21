@@ -2,7 +2,7 @@
 
 I’m a passionate **web developer** focused on learning and building interactive web applications.
 
----
+--
 
 ### 🌱 I’m currently learning Node js, React
 ---
