@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I’m Muhammadqodir, a passionate web developer focused on learning and building interactive web applications.
-
 ### 🌱 I’m currently learning
 - Frontend: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React
 - Backend: Node.js, Express, MongoDB
@@ -17,7 +16,6 @@ I’m Muhammadqodir, a passionate web developer focused on learning and building
 
 ### ⚡ Fun fact
 I love exploring new web technologies and improving my coding skills every day!
-
 ---
 ### Languages and Tools:
 <p align="left">
@@ -34,8 +32,6 @@ I love exploring new web technologies and improving my coding skills every day!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
   </a>
 </p>
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadqodir-st&layout=compact)
 
