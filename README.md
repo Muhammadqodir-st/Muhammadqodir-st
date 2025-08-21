@@ -4,33 +4,16 @@ I’m a passionate **web developer** focused on learning and building interactiv
 
 ---
 
-### 🌱 I’m currently learning
-<details>
-  <summary>Click to see details</summary>
-
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React  
-- **Backend:** Node.js, Express, MongoDB  
-- **Other:** TypeScript, UI/UX Design
-
-</details>
-
+### 🌱 I’m currently learning Node js, React
 ---
 
-### 💬 Ask me about
-JavaScript, React, Tailwind, Firebase, MongoDB
+### 💬 Ask me about JavaScript
 
 ---
 
 ### 📫 How to reach me
-<details>
-  <summary>Click to see contact info</summary>
-
-- **Email:** muhammadqodir@example.com  
-- **Telegram:** [@username](https://t.me/username)  
-- **LinkedIn:** [Profile](#)
-
-</details>
-
+- **Email:** muhammadqodirov3609@example.com  
+- **Telegram:** [@muhammadqodir-st](https://t.me/muhammadqodir-st)  
 ---
 
 ### ⚡ Fun fact
