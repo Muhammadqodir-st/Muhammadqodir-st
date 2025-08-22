@@ -32,4 +32,4 @@ I love exploring new web technologies and improving my coding skills every day!
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadqodir-st&layout=compact&langs_count=5&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadqodir-st&layout=compact&langs_count=5&theme=radical&cache_seconds=1)
