@@ -9,7 +9,6 @@ My focus is clean design, responsive layouts, and writing maintainable code.
 - 💬 **Open to:** Freelance & collaborations  
 - ⚡ **Focus:** Frontend development • UI/UX • modern CSS frameworks  
 
----
 
 ## 🛠 Tech Stack
 
