@@ -1,4 +1,4 @@
-# Muhammadqodir
+# Mamurjonov Muhammadqodir
 
 #### About Me
 I’m a web developer from Uzbekistan who loves building interactive and modern web applications.  
