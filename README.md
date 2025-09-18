@@ -3,17 +3,15 @@
 I’m a passionate **web developer** focused on learning and building interactive web applications.
 
 - 🌱 I’m currently learning Node.js, React
-
 - 💬 Ask me about JavaScript
-
 - 📫 How to reach me
   - **Email:** muhammadqodirov3609@example.com  
   - **Telegram:** [@muhammadqodir-st](https://t.me/muhammadqodir-st)  
+- ⚡ Fun fact: I love exploring new web technologies and improving my coding skills every day!
 
-- ⚡ Fun fact  
-I love exploring new web technologies and improving my coding skills every day!
+---
 
-- 🛠 Languages & Tools
+### 🛠 Languages & Tools
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -32,5 +30,12 @@ I love exploring new web technologies and improving my coding skills every day!
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=radical)](https://git.io/streak-stats)
+---
 
+### 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammadqodir-st&theme=radical)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadqodir-st&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadqodir-st&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadqodir-st&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadqodir-st&theme=radical)
