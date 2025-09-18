@@ -1,7 +1,6 @@
-# <p>Muhammadqodir</p>
+# Muhammadqodir
 
-## About Me
-
+#### About Me
 I’m a web developer from Uzbekistan who loves building interactive and modern web applications.  
 My focus is clean design, responsive layouts, and writing maintainable code.  
 
@@ -9,9 +8,9 @@ My focus is clean design, responsive layouts, and writing maintainable code.
 - 💬 **Open to:** Freelance & collaborations  
 - ⚡ **Focus:** Frontend development • UI/UX • modern CSS frameworks  
 
+---
 
-## 🛠 Tech Stack
-
+#### 🛠 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
 </p>
