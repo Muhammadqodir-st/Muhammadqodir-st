@@ -10,5 +10,5 @@ I create interactive and modern web applications. My main focus is on clean desi
 
 #### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux,mongoose" />
 </p>
